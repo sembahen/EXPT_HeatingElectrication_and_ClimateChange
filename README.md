@@ -38,7 +38,7 @@ The datasets generated for the study can be found at ...
 <!-- CONTACT -->
 ## Contact
 
-Henry Ssembatya <a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a> - sembahen@gmail.com <a href="[https://www.linkedin.com/in/henry-ssembatya/](https://scholar.google.com/citations?user=W10PUg0AAAAJ&hl=en)"> Scholar</a>
+Henry Ssembatya <a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a> - sembahen@gmail.com <a href="https://scholar.google.com/citations?user=W10PUg0AAAAJ&hl=en)"> Scholar</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
