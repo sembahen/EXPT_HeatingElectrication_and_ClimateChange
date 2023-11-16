@@ -10,3 +10,31 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 
+This technical analysis aims to:
+
+1) Understanding Long-Term Patterns:
+   We aim to analyze patterns in peak load, total load and loss of load, driven by widespread heat pump adoption of Heat Pumps alongside climate change.
+
+2) Scenario Analysis:
+  Explore a wide range of future scenarios, including variations in climate and technology pathways, to capture the uncertainty associated with these long-term changes.
+
+3) Use a validated open source DC OPF model
+  Use an open-source nodal power system model of the ERCOT system to simulate and understand the potential impacts on market prices, reliability, and relative   capacity requirements.
+
+4) Grid Vulnerability:
+   Assess the vulnerability of the grid to these simultaneous changes, identify potential vulnerability.
+
+5) Providing Insights for System Planners:
+  Offer results that can assist long-term system planners in anticipating and preparing for potential shifts in grid reliability.
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Henry Ssembatya - (https://www.linkedin.com/in/henry-ssembatya/) - sembahen@gmail.com
+Scholar -
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
