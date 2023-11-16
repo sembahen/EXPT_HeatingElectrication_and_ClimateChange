@@ -34,7 +34,7 @@ The technical analysis aimed to:
 <!-- CONTACT -->
 ## Contact
 
-Henry Ssembatya - (https://www.linkedin.com/in/henry-ssembatya/) <p align="right">(<a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a>)</p> - sembahen@gmail.com
+Henry Ssembatya <a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a>) - sembahen@gmail.com
 Scholar -
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
