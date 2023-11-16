@@ -4,19 +4,20 @@
 <h3 align="center">Model for "The Dual Impacts of Heating Electrification (Heat Pumps) and Climate Change on Seasonal Peaking and Reliability of the ERCOT grid"</h3>
 
   <p align="center">
-    This model assesses the net effects of simultaneous widespread adoption of heat pumps alongside the effects of climate change.
+    This experiment assesses the net effects of simultaneous widespread adoption of heat pumps alongside the effects of climate change.
     </p>
     
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## 
-This technical analysis aims to:
+## About The Project
+
+The technical analysis aimed to:
 
 ## 1) Understanding Long-Term Patterns:
    We aim to analyze patterns in peak load, total load, loss of load, and the seasonality of these phenomena,driven by widespread heat pump adoption of Heat Pumps alongside climate change.
 
-## 3) Extensive Scenario Analysis:
+## 3) Use Extensive Scenario Analysis:
   Explore a wide range of future scenarios, including variations in climate and technology pathways, to capture the uncertainty associated with these long-term changes. In total, 2560 simulation years.
 
 ## 4) Use a validated open source DC OPF model(reproducibility)
