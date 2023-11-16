@@ -1,6 +1,6 @@
-# EXPT_HeatingElectrication_and_ClimateChange
+# HP_HECC (Heating Electrification,Climate Change) MODEL FRAMEWORK
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Model for The Dual Impacts of Heating Electrification (Heat Pumps) and Climate Change on Seasonal Peaking and Reliability of the ERCOT grid</h3>
 
   <p align="center">
     project_description
