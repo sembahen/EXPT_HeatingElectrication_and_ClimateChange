@@ -3,7 +3,7 @@
 <h3 align="center">Model for The Dual Impacts of Heating Electrification (Heat Pumps) and Climate Change on Seasonal Peaking and Reliability of the ERCOT grid</h3>
 
   <p align="center">
-    project_description
+    This model assesses the net effects of simultaneous widespread adoption of heat pumps alongside the effects of climate change
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
