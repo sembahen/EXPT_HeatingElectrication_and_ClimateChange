@@ -10,11 +10,11 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Work
 
 The technical analysis aimed to:
 
-#### 1) Understanding Long-Term Patterns:
+### 1) Understand the Long-Term Patterns:
    We aim to analyze patterns in peak load, total load, loss of load, and the seasonality of these phenomena,driven by widespread heat pump adoption of Heat Pumps alongside climate change.
 
 ### 2) Use Extensive Scenario Analysis:
@@ -31,11 +31,10 @@ The technical analysis aimed to:
 
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Henry Ssembatya - (https://www.linkedin.com/in/henry-ssembatya/) - sembahen@gmail.com
+Henry Ssembatya - (https://www.linkedin.com/in/henry-ssembatya/) <p align="right">(<a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a>)</p> - sembahen@gmail.com
 Scholar -
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
