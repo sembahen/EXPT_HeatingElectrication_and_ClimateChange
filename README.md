@@ -30,12 +30,15 @@ The technical analysis aimed to:
   Offer results that can assist long-term system planners in anticipating and preparing for potential shifts in grid reliability.
 
 
+<!-- DATASETS -->
+## Datasets
+The datasets generated for the study can be found at ...
+
 
 <!-- CONTACT -->
 ## Contact
 
-Henry Ssembatya <a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a>) - sembahen@gmail.com
-Scholar -
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Henry Ssembatya <a href="https://www.linkedin.com/in/henry-ssembatya/"> Linkedin</a> - sembahen@gmail.com <a href="[https://www.linkedin.com/in/henry-ssembatya/](https://scholar.google.com/citations?user=W10PUg0AAAAJ&hl=en)"> Scholar</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
