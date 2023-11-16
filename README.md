@@ -14,7 +14,7 @@
 
 The technical analysis aimed to:
 
-### 1) Understanding Long-Term Patterns:
+#### 1) Understanding Long-Term Patterns:
    We aim to analyze patterns in peak load, total load, loss of load, and the seasonality of these phenomena,driven by widespread heat pump adoption of Heat Pumps alongside climate change.
 
 ### 2) Use Extensive Scenario Analysis:
